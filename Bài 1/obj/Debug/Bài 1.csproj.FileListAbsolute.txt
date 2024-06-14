@@ -1,0 +1,7 @@
+C:\Users\ACER\Documents\C#2\Lab 8\Bài 1\bin\Debug\Bài 1.exe.config
+C:\Users\ACER\Documents\C#2\Lab 8\Bài 1\bin\Debug\Bài 1.exe
+C:\Users\ACER\Documents\C#2\Lab 8\Bài 1\bin\Debug\Bài 1.pdb
+C:\Users\ACER\Documents\C#2\Lab 8\Bài 1\obj\Debug\Bài 1.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\C#2\Lab 8\Bài 1\obj\Debug\Bài 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C#2\Lab 8\Bài 1\obj\Debug\Bài 1.exe
+C:\Users\ACER\Documents\C#2\Lab 8\Bài 1\obj\Debug\Bài 1.pdb
